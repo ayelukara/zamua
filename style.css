@@ -173,7 +173,7 @@ aside img {
 }
 
 /* MEDIA QUERIES */
-@media (min-width: 480px) {
+@media (max-width: 412px) {
 	.main {
 		width: 100%;
 		display: flex;
